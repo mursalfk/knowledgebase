@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/cc/</loc>
+    <lastmod>2020-04-09T16:34:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/foss/</loc>
+    <lastmod>2020-04-09T16:34:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/open-data/</loc>
+    <lastmod>2020-04-09T16:34:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/oers/</loc>
+    <lastmod>2020-04-09T16:34:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/</loc>
+    <lastmod>2020-04-10T18:12:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/workshops/</loc>
+    <lastmod>2020-04-10T18:12:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fossrit.github.io/knowledgebase/tags/</loc>
+  </url>
+  
+</urlset>
